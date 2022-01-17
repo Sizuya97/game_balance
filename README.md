@@ -1,2 +1,8 @@
-# game_balance
-Game analysis
+# Анализ игрового баланса
+Данный проект состоит из следующих файлов:
+* data_test - обрабатываемые данные;
+* game_balance.ipynb - ноутбук с кодом на языке Python.
+
+В данной работе был проведён корреляционный анализ для определения факта изменения баланса в игре.
+
+Для того чтобы просмотреть работу, необходимо скачать проект, открыть файл diploma_project.ipynb в Jupyter Notebooks, установив дистрибутив Anaconda, или пройти по ссылке https://github.com/Sizuya97/game_balance/blob/main/game_balance.ipynb.
